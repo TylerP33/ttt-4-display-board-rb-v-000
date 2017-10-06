@@ -17,5 +17,4 @@ def display_board(row1, row2, row3, row4, row5)
   puts "#{row1[0]}"
   puts "#{row3[0]}"
   puts "#{row5[0]}"
-  
-  
+end 
