@@ -7,5 +7,5 @@ def display_board(board)
   row4 = puts "-----------"
   row5 = puts "   |   |   "
 
-  puts "X #{row3}"
+  puts "#{row1 + { X }}"
   end
