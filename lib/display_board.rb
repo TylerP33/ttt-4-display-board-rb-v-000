@@ -16,10 +16,10 @@ def display_board(board)
 end
 
 def display_board(board)
-  puts "   |   | X "
+  puts " X | X | X "
   puts "-----------"
-  puts "   | X |   "
+  puts "   |   |   "
   puts "-----------"
-  puts " X |   |   "
+  puts "   |   |   "
 
 end
