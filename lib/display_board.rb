@@ -5,6 +5,6 @@ row4 = ["-----------"]
 row5 = ["   ", "|", "   ", "|", " 0 "]
 
 
-def display_board(board)
+def display_board(row1)
   puts "#{row1[0]}", "#{row1[1]}", "#{row1[2]}", "#{row1[3]}", "#{row1[4]}"
 end
