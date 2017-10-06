@@ -1,3 +1,6 @@
+def display_board(board)
+  puts "#{board}"
+
 row1 = [" X | X | X "]
 row2 = ["-----------"]
 row3 = [" X | X | X "]
@@ -10,11 +13,7 @@ row3
 row4
 row5
 
-board = ["X  X  X  X  X  X  X  X  X  X  X"]S
 
 
 
-def display_board(board)
-  puts "#{board[0]}"
 
-end
