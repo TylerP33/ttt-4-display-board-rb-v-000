@@ -1,2 +1,12 @@
-# Define display_board that accepts a board and prints
-# out the current state.
+row1 = ["   ", "|", "   ", "|", "   "]
+row2 = ["-----------"]
+row3 = ["   ", "|", "   ", "|", "   "]
+row4 = ["-----------"]
+row5 = ["   ", "|", "   ", "|", "   "]
+
+row1
+row2
+row3
+row4
+row5
+
