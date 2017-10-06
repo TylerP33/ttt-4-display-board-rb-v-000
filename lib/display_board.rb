@@ -12,6 +12,6 @@ row5
 
 
 def display_board(board)
-  puts "#{board}"
+  puts "#{{row1 + row2}}
 
 end
