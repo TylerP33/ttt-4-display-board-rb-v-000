@@ -1,7 +1,7 @@
 def display_board(board)
-  puts " X | X | X "
+  puts "   |   |   "
   puts "-----------"
-  puts " 0 | X | X "
+  puts "   |   |   "
   puts "-----------"
-  puts " X |   | 0 "
+  puts "   |   |   "
 end
