@@ -10,6 +10,11 @@ row3
 row4
 row5
 
+board = row1
+board = row2
+board = row3
+board = row4
+board = row5
 
 def display_board(board)
   puts "#{row1[0]}", "#{row1[1]}", "#{row1[2]}", "#{row1[3]}", "#{row1[4]}"
