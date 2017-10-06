@@ -6,7 +6,7 @@ def display_board(board, board1)
   puts "   |   |   "
 
 end
-def disaplay_board1(board1)
+def disaplay_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   | X |   "
