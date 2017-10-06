@@ -10,7 +10,7 @@ row3
 row4
 row5
 
-board = [" X | X | X -----------X | X | X -----------X | X | X "]
+board = ["X  X  X  X  X  X  X  X  X  X  X"]S
 
 
 
