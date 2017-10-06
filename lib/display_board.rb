@@ -10,6 +10,8 @@ row3
 row4
 row5
 
+board = row1
+
 def display_board(board)
   puts "#{board}"
 
