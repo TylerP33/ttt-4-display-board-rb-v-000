@@ -8,5 +8,5 @@ def display_board(board)
   row5 = puts "   |   |   "
 
   puts "#{row3 "   | X |   "}"
-  
+
   end
