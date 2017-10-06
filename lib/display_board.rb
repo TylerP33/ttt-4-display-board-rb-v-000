@@ -13,7 +13,7 @@ def display_board(board)
   row4 = puts "-----------"
   row5 = puts "   |   |   "
 
-  
+
 
 
 
