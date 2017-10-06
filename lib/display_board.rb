@@ -1,4 +1,4 @@
-row1 = ["   ", "|", "   ", "|", "   "]
+row1 = [" X ", "|", "   ", "|", "   "]
 row2 = ["-----------"]
 row3 = ["   ", "|", "   ", "|", "   "]
 row4 = ["-----------"]
@@ -7,5 +7,5 @@ row5 = ["   ", "|", "   ", "|", "   "]
 board = (row1, row2, row3, row4, row5)
 
 def display_board(board)
-  puts "#{row3[3]}"
+  puts "#{row1[0]}"
 end
