@@ -1,4 +1,6 @@
 board = ["X", "X", "  ", "  ", "  ", "  ", "  ", "  ", "O"]
 def display_board(board)
-  puts "The first move is #{board[0]}"
+  puts "#{board[0]}"
+  puts "#{board[8]}"
+  puts "#{board[1]}"
 end
